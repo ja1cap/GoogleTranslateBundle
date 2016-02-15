@@ -1,5 +1,5 @@
 {
-    "name": "exercise/google-translate-bundle",
+    "name": "weasty/exercise-google-translate-bundle",
     "type": "symfony-bundle",
     "description": "This bundle include service for translate with Google Translate and command which translate messages in your Bundles",
     "keywords": ["translation","google","translate","google-translate","symfony","api","php"],
